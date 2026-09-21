@@ -1,0 +1,10 @@
+[
+  {
+    "kind": "rfc3161",
+    "observed_at": "epoch:1789969070",
+    "root": "63c3803a3cb601e05b98108647100aa13e41273ef18c6bf3deb7c5cfb244b8a1",
+    "token": "anchors/tokens/63c3803a3cb601e05b98108647100aa13e41273ef18c6bf3deb7c5cfb244b8a1.tsr",
+    "tsa": "https://freetsa.org/tsr",
+    "tsa_time": "Sep 21 05:37:50 2026 GMT"
+  }
+]
