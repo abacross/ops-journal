@@ -6,5 +6,13 @@
     "token": "anchors/tokens/22c53ee085b7d5dde0bd4053d5dcd692f1fd64b6bcd4b0b2cb040c0b5dd65808.tsr",
     "tsa": "https://freetsa.org/tsr",
     "tsa_time": "Sep 21 05:14:38 2026 GMT"
+  },
+  {
+    "kind": "opentimestamps",
+    "note": "run ots upgrade after the bitcoin transaction confirms",
+    "observed_at": "epoch:1789969492",
+    "proof": "anchors/proofs/22c53ee085b7d5dde0bd4053d5dcd692f1fd64b6bcd4b0b2cb040c0b5dd65808.root.ots",
+    "root": "22c53ee085b7d5dde0bd4053d5dcd692f1fd64b6bcd4b0b2cb040c0b5dd65808",
+    "state": "pending"
   }
 ]
