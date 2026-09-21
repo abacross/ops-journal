@@ -1,0 +1,11 @@
+{
+  "block": 11,
+  "count": 1,
+  "first_seq": 11,
+  "last_seq": 11,
+  "prev_root": "76e585b9177a11558d7cf9657abb70fb209f66d8f2c33805cde57954495f13ea",
+  "record_hashes": [
+    "856c6f97cf40fdf595626942b224d45b6857b1a362ba69588653d7db73adc071"
+  ],
+  "root": "8f532108d4f419a86020bb24b46fec6779d5a311f4015ac37c4976e99bd0db77"
+}
