@@ -3,6 +3,16 @@
 Every production deploy of abacross.com since 2026-09-20, as a hash-chained, Merkle-blocked, externally anchored record.
 This directory is published so that anyone can check it, not so that anyone has to trust it.
 
+Three commands, from nothing to a verdict:
+
+```
+git clone https://github.com/abacross/agent-journal && cargo build --release --manifest-path agent-journal/Cargo.toml
+git clone https://github.com/abacross/ops-journal
+agent-journal/target/release/ajv verify ops-journal --require rfc3161,opentimestamps && echo "every record, block and anchor holds"
+```
+
+The same check runs in a browser at [abacross.com/journal](https://abacross.com/journal/), and [ninety seconds on why](https://abacross.com/why/) it is kept this way.
+
 ## What is here
 
 | path | what |
