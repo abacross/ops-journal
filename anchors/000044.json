@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "rfc3161",
+    "observed_at": "epoch:1790468144",
+    "root": "423ea3f020da29b02fe959d1215f58b3b92a116fcde7138e6bf7f6e83eb5c940",
+    "token": "anchors/tokens/423ea3f020da29b02fe959d1215f58b3b92a116fcde7138e6bf7f6e83eb5c940.tsr",
+    "tsa": "https://freetsa.org/tsr",
+    "tsa_time": "Sep 27 00:15:44 2026 GMT"
+  },
+  {
+    "kind": "opentimestamps",
+    "note": "run ots upgrade after the bitcoin transaction confirms",
+    "observed_at": "epoch:1790468146",
+    "proof": "anchors/proofs/423ea3f020da29b02fe959d1215f58b3b92a116fcde7138e6bf7f6e83eb5c940.root.ots",
+    "root": "423ea3f020da29b02fe959d1215f58b3b92a116fcde7138e6bf7f6e83eb5c940",
+    "state": "pending"
+  }
+]
